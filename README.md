@@ -1,2 +1,0 @@
-# parallax
-dog-parallax-site
